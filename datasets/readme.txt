@@ -1,0 +1,1 @@
+Place data sets (csv format) in this folder to be able to import them with the "Import from filename" option in the main program.
